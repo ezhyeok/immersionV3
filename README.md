@@ -27,7 +27,8 @@
 ## Using Stack
 
 - Flutter
--
+- nodeJs
+- MariaDB
 
 
 
